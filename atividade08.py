@@ -1,0 +1,6 @@
+nom1 = input("Digite o primeiro nome: ")
+sob1 = input("Digite o primeiro sobrenome: ")
+nom2 = input("Digite o segundo nome: ")
+sob2 = input("Digite o segundo sobrenome: ")
+print(f"Seja bem vindo! Seu nome é {nom1} e o seu sobrenome {sob2}")
+print(f"Seja bem vindo! Seu nome é {nom2} e o seu sobrenome é {sob1}")
